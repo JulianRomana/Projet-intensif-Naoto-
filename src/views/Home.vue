@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <Component msg="Ceci est un composante de base avec Vue"/>
+    <Component msg="Ceci est un composante avec Vue"/>
   </div>
 </template>
 
